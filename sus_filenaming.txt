@@ -1,0 +1,12 @@
+cf1e84d427aea46d0fc4b19ec6aad28d,./worm/mkisofs
+df1ed9c10c8773c67aa95588c5b3abb4,./worm/inotifywait
+68c3aa20ddc676ac128b295f28ff1a5a,./worm/wormsvc.sh
+95de1c792ba972a2bf462a96d418df9e,./worm/startup3.sh
+9d0ba6f4b23a0ad1c6ef9d3634f27e75,./setup_worm.sh
+801557d94c6f05c10a283ad85badd0b5,./app/build/intermediates/data_binding_layout_info_type_merge/debug/out/frag_write_worm-layout.xml
+df1933d023e05940484ef42e108af184,./app/build/intermediates/merged_res/debug/layout_frag_write_worm.xml.flat
+46d5a4497f2d758f354064e39cb84903,./app/build/intermediates/packaged_res/debug/layout/frag_write_worm.xml
+46d5a4497f2d758f354064e39cb84903,./app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir/layout/frag_write_worm.xml
+46d5a4497f2d758f354064e39cb84903,./app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir/layout/frag_write_worm.xml
+801557d94c6f05c10a283ad85badd0b5,./app/build/intermediates/data_binding_layout_info_type_package/debug/out/frag_write_worm-layout.xml
+9d33dce8e87fb1c2ee0ef7ebe515e719,./app/src/main/res/layout/frag_write_worm.xml
