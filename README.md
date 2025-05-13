@@ -34,7 +34,7 @@ python3 compare_md5.py <version1>.csv <version2>.csv
 *Screenshot example output of modified files.*
 
 ![Weird file naming](https://raw.githubusercontent.com/7wp81x/COMELEC_ACM_HASHCODE/refs/heads/main/Screenshots/Screenshot%20from%202025-05-13%2014-58-15.png)  
-*Screenshot weird filenames like `worm*` and `start_worm.sh`.*
+*Screenshot weird directory `worm*` has `setup` and `startup`.*
 
 ### Conclusion
 There are **no actual modified source codes**. The primary issue is that **build artifacts** (e.g., compiled binaris) were included in v3.5.0, which were **not present** in v3.4.0 — this caused the hash mismatch.
