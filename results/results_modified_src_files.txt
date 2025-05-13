@@ -1,0 +1,15 @@
+old_hash|new_hash|filename
+44a839dcf97fb1f89f48fd729c70b9cd|04258b0724b159807620a04142e91995|./.gradle/file-system.probe
+167f33da1ed9a15ca5e672fabfaa79b9|f99b0d4f6e675472c38f399f4ca93e87|./.gradle/7.3.3/fileHashes/fileHashes.lock
+a21b9d7bff4e9a45dbead50413d4131e|b4e2e355dc0709d79670df4857d62fdf|./.gradle/7.3.3/fileHashes/resourceHashesCache.bin
+276b30e394a00c8488aa6e0b36cf6dfb|fbeaa2c7f44d36d3826c008691b847a3|./.gradle/7.3.3/fileHashes/fileHashes.bin
+9de593e91c5f9f1b4d4f7c58372a7335|4a30d6cf76a1bea24333b2d40fc138dd|./.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock
+beb41a22b3bd86eb89d5b794000e946f|3757ce7a8bdaf5882cbfbddf192eb55d|./.gradle/7.3.3/executionHistory/executionHistory.lock
+5fc7e480d1259d23d88210f9522513ba|49ac0e98888531ed42c1e92e193a88fd|./.gradle/7.3.3/executionHistory/executionHistory.bin
+36a3beae5fa76f1e1f2c104a0c688ded|179ceb17609d0a04de342774fad5c8b8|./.gradle/7.3.3/checksums/checksums.lock
+b7649d9831f34674fc8ba60c3e9c2d95|40feb2359964af707ebba1f079b6ea5f|./app/src/main/java/com/mirusystems/acm/views/dre/review/DreReviewFragment.java
+e8919f620b1a8bf026fd9b344acf8b5a|793f3e5cd9a280b57356bd5617d35ca6|./app/src/main/java/com/mirusystems/acm/views/dre/review/DreReviewViewModel.java
+e3f4ef31fb1ce77e499e46ade10acb02|5a2d2b4adf14ead4a99a2a49be2a988b|./app/src/main/java/com/mirusystems/acm/views/vote/review/VoteReviewViewModel.java
+f5953b86260ecf1da40d0fd61453fcd3|802b5f5688fa1aba6ff3977290ece967|./app/src/main/java/com/mirusystems/acm/base/BaseViewModel.java
+ec788224454ef7ca50bd8d5dfc85dcbd|8bb3f270e8a19a43d74c6e6e6cb832e4|./data/devicestatus/src/main/java/com/mirusystems/devicestatus/repository/DeviceStatusRepository.kt
+033229f6df3356a5ba20b93aa6bbb90a|bda66ed216c4a7f93e0d3a8f009fe6ae|./data/devicestatus/src/main/java/com/mirusystems/devicestatus/item/DeviceStatus.kt
