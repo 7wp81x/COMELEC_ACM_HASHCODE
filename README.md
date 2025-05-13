@@ -37,6 +37,6 @@ python3 compare_md5.py <version1>.csv <version2>.csv
 *Screenshot weird directory `worm*` has `setup` and `startup`.*
 
 ### Conclusion
-There are **no actual modified source codes**. The primary issue is that **build artifacts** (e.g., compiled binaris) were included in v3.5.0, which were **not present** in v3.4.0 — this caused the hash mismatch.
+There are **no actual modified source codes** (that's what i thought few hours ago, there are some source code that was modified). The primary issue is that **build artifacts** (e.g., compiled binaris) were included in v3.5.0, which were **not present** in v3.4.0 — this caused the hash mismatch.
 However, other **possibilities remain** since multiple online sources have reported various **errors or concerns**. Further investigation is recommended to ensure software integrity.
 
