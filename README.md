@@ -1,5 +1,5 @@
 
-# COMELEC ACM Hash Diff Tool
+# COMELEC ACM HASHCODE ISSUE
 
 This repo was created in order to compare the MD5 checksums of files listed in the Comelec [Source Code Hash Manifest](https://comelec.gov.ph/?r=2025NLE%2FLocalSourceCodeReview%2FHashManifest_2025),
 which is typically in PDF format for different software versions ([3.4.0](https://comelec.gov.ph/php-tpls-attachments/2025NLE/SCH/01312025_SourceHashes/phl-acm-3.4.0_md5.pdf) and [v3.5.0](https://comelec.gov.ph/php-tpls-attachments/2025NLE/SCH/phl-acm-3.5.0_20250328_md5.pdf)) used in Automated Counting Machines (ACMs).
