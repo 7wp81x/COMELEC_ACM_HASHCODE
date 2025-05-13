@@ -25,6 +25,13 @@ Usage:
 python3 compare_md5.py <version1>.csv <version2>.csv
 ```
 
+# Results
+[View not modified files](https://raw.githubusercontent.com/7wp81x/COMELEC_ACM_HASHCODE/refs/heads/main/results/results_not_modified_files.txt)  
+[View modified non-build? files](https://raw.githubusercontent.com/7wp81x/COMELEC_ACM_HASHCODE/refs/heads/main/results/results_modified_src_files.txt)
+[View all modified files](https://raw.githubusercontent.com/7wp81x/COMELEC_ACM_HASHCODE/refs/heads/main/results/results_all_modified_files.txt)
+[View all new files](https://raw.githubusercontent.com/7wp81x/COMELEC_ACM_HASHCODE/refs/heads/main/results/results_all_new_files.txt)
+
+
 # Screenshots
 
 ![New files demo](https://raw.githubusercontent.com/7wp81x/COMELEC_ACM_HASHCODE/refs/heads/main/Screenshots/Screenshot%20from%202025-05-13%2014-57-01.png)  
